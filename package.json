@@ -1,5 +1,5 @@
 {
-  "name": "aula01-setup-jest",
+  "name": "mocks",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test:debug": "node --experimental-vm-modules --inspect-brk node_modules/.bin/jest --injectGlobals false  --runInBand --watchAll test/"
   },
   "keywords": [],
-  "author": "erickwendel",
+  "author": "will",
   "license": "ISC",
   "type": "module",
   "engines": {
